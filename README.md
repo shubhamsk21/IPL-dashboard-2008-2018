@@ -3,6 +3,7 @@ I'm excited to delve into the Excel dashboard project I'm currently crafting for
 Ah, got it. Let's tailor the description accordingly:
 
 The project, named "IPL Insights Dashboard," aims to provide stakeholders with a comprehensive view of Indian Premier League (IPL) statistics from 2008 to 2018. It will include data on total matches played, win percentages of teams, overall tournament performance, team-wise performance metrics, player statistics such as runs scored, wickets taken, and batting averages, monthly trends in match outcomes, comparisons between current and previous years' performances, stadium-wise analysis, surface conditions impact on match results, and insights into match outcomes based on day/night fixtures.
+
 Certainly! Based on your primary Key Performance Indicators (KPIs), your IPL Insights Dashboard will include:
 
 1. **Matches Won by Team based on Toss Decision**: A visual representation of matches won by teams when batting first or bowling first after winning the toss. This could be depicted through a bar chart or pie chart to show the distribution of wins based on toss decision.
